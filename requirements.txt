@@ -1,0 +1,9 @@
+imageio==2.9.0
+scikit-image==0.16.2
+torch==1.9.0
+torchvision==0.10.0
+opencv-python==4.5.5
+timm==0.5.4
+future
+lmdb
+thop
